@@ -1,0 +1,1 @@
+module.exports.listcontroller=require("./list.controller");

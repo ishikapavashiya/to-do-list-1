@@ -1,0 +1,1 @@
+module.exports.todolistSchema = require("./list.model")
